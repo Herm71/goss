@@ -1,0 +1,63 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-assets
+  - bourbon
+  - neat
+
+# Structure configuration
+source: ./source
+destination: ./build
+
+# Site Settings
+title: "This is my title"
+description: My groovy site description
+timezone: America/Los_Angeles
+#url:
+
+# Build Settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+
+# Collections
+collections:
+  authors:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+#Asset configuraton
+assets:
+  compress:
+    css: true
+    js: true
+  digest: true
+  sources:
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
