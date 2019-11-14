@@ -1,0 +1,70 @@
+.main,
+.content,
+.title {
+    margin: 0 auto;
+}
+
+.header-container {
+    position: relative;
+    text-align: center;
+    color: #fff;
+}
+
+.header-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.35);
+    padding: 15px;
+}
+
+.main {
+    max-width: $size__max-width;
+    width: 100%;
+}
+
+.content {
+    width: 95%;
+}
+
+.title-head,
+.title-subtitle {
+    width: 100%;
+    text-align: center;
+}
+
+.title-head {
+    @include font-size(3.75);
+}
+
+.title-subtitle {
+    @include font-size (2.75);
+    margin: 0 auto;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+.full-width {
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: 100vw;
+    position: relative;
+    right: 50%;
+    width: 100vw;
+}
+
+.half-width {
+    // left: 25%;
+    margin-left: calc(-100vw / 2 + 48em / 2);
+    margin-right: calc(-100vw / 2 + 48em / 2);
+    // max-width: 50vw;
+    position: relative;
+    // right: 25%;
+    // width: 50vw;
+}

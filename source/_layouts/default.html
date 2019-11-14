@@ -3,15 +3,33 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto:400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/styles.css">
     {% feed_meta %}
     {% seo %}
 </head>
+<header>
+{% comment %} 
+{% include navigation.html %} {% endcomment %}
+<div class="header-container">
+{% asset goss-general/unit-front.jpg @magick:resize=600 %}
+{% comment %} <img class="full-width" source="/assetts/images/goss-general/unit-front"> {% endcomment %}
+
+<div class="header-text">
+<h1 class="title-head">Do not rent from Joe Trent</h2>
+<p class="title-subtitle">339 Goss Ave, Santa Cruz, CA</p>
+</div>
+</div>
+</header>
 
 <body>
-{% include navigation.html %}
-    <h1>{{ content }}</h1>
+    <div class="main">
+        <section class="content">
+            {{ content }}
+        </section>
+    </div>
 </body>
 
 </html>
