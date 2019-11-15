@@ -8,6 +8,10 @@
     position: relative;
     text-align: center;
     color: #fff;
+    background: url(../../assets/images/goss-general/unit-front.jpg) no-repeat top;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
 }
 
 .header-text {
@@ -22,6 +26,7 @@
 .main {
     max-width: $size__max-width;
     width: 100%;
+    padding: 2rem 0;
 }
 
 .content {
@@ -32,6 +37,7 @@
 .title-subtitle {
     width: 100%;
     text-align: center;
+    margin: 0;
 }
 
 .title-head {
