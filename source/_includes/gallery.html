@@ -1,0 +1,13 @@
+{% for gallery in site.data.galleries %} 
+{% if gallery.id == page.galleryid%}
+<h3>{{gallery.description}}</h3>
+<ul class="photo-set no-list-style">
+    {% for image in gallery.images%}
+    <li>
+        <a href="{{ site.baseurl }}/assets/images/{{ page.galleryfolder }}/{{ image.name }}" data-lightbox="{{ page.galleryid }}" data-title="{{ image.name }}"><img src="{{ site.baseurl }}/assets/images/{{page.galleryfolder}}/{{ image.thumb }}" alt="Photo {{ image.name }} from {{ page.galleryid | capitalize }}"><span class="photo-set-image-description">{{image.text}}</span></a>
+    </li>
+
+    {% endfor %}
+</ul>
+{% endif %} 
+{% endfor %}

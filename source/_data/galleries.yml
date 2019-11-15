@@ -1,0 +1,239 @@
+- id: dirty
+  description: "My dirty apartment"
+  images:
+  - name: dirty-01.jpg
+    thumb: dirty-01.jpg
+    text: Upstairs bedroom
+  - name: dirty-02.jpg
+    thumb: dirty-02.jpg
+    text: Upstairs bedroom overlooking the cove
+  - name: dirty-03.jpg
+    thumb: dirty-03.jpg
+    text: Upstairs hanging bed
+  - name: dirty-04.jpg
+    thumb: dirty-04.jpg
+    text: Downstairs sleeping area
+  - name: dirty-05.jpg
+    thumb: dirty-05.jpg
+    text: Downstairs sleeping area
+  - name: dirty-06.jpg
+    thumb: dirty-06.jpg
+    text: Downstairs living area with kitchen
+  - name: dirty-07.jpg
+    thumb: dirty-07.jpg
+    text: Kitchen and dining area
+  - name: dirty-08.jpg
+    thumb: dirty-08.jpg
+    text: Upstairs
+  - name: dirty-10.jpg
+    thumb: dirty-10.jpg
+    text: Upstairs living area
+  - name: dirty-12.jpg
+    thumb: dirty-12.jpg
+    text: Casa Luna entrance
+  - name: dirty-16.jpg
+    thumb: dirty-16.jpg
+    text: Upstairs bedroom
+  - name: dirty-20.jpg
+    thumb: dirty-20.jpg
+    text: Downstairs sleeping area
+  - name: dirty-21.jpg
+    thumb: dirty-21.jpg
+    text: Downstairs living area with kitchen
+  - name: dirty-22.jpg
+    thumb: dirty-22.jpg
+    text: Kitchen and dining area
+  - name: dirty-23.jpg
+    thumb: dirty-23.jpg
+    text: Upstairs
+  - name: dirty-25.jpg
+    thumb: dirty-25.jpg
+    text: Upstairs living area
+  - name: dirty-27.jpg
+    thumb: dirty-27.jpg
+    text: Casa Luna entrance
+  - name: dirty-28.jpg
+    thumb: dirty-28.jpg
+    text: Casa Luna entrance 
+  - name: dirty-29.jpg
+    thumb: dirty-29.jpg
+  - name: dirty-30.jpg
+    thumb: dirty-30.jpg
+    text: Downstairs sleeping area
+  - name: dirty-31.jpg
+    thumb: dirty-31.jpg
+    text: Downstairs living area with kitchen
+  - name: dirty-33.jpg
+    thumb: dirty-33.jpg
+    text: Upstairs
+  - name: dirty-36.jpg
+    thumb: dirty-36.jpg
+    text: Overlooking the cove
+  - name: dirty-39.jpg
+    thumb: dirty-39.jpg
+    text: Bathroom and shower
+
+- id: moveout
+  description: "Cleaned upon move out"
+  images:
+  - name: clean-01.jpg
+    thumb: clean-01.jpg
+    text: Upstairs bedroom
+  - name: clean-02.jpg
+    thumb: clean-02.jpg
+    text: Upstairs bedroom overlooking the cove
+  - name: clean-03.jpg
+    thumb: clean-03.jpg
+    text: Upstairs hanging bed
+  - name: clean-04.jpg
+    thumb: clean-04.jpg
+    text: Downstairs sleeping area
+  - name: clean-05.jpg
+    thumb: clean-05.jpg
+    text: Downstairs sleeping area
+  - name: clean-06.jpg
+    thumb: clean-06.jpg
+    text: Downstairs living area with kitchen
+  - name: clean-07.jpg
+    thumb: clean-07.jpg
+    text: Kitchen and dining area
+  - name: clean-08.jpg
+    thumb: clean-08.jpg
+    text: Upstairs
+  - name: clean-09.jpg
+    thumb: clean-09.jpg
+    text: Upstairs living area
+  - name: clean-10.jpg
+    thumb: clean-10.jpg
+    text: Upstairs living area
+  - name: clean-11.jpg
+    thumb: clean-11.jpg
+    text: Overlooking the cove
+  - name: clean-12.jpg
+    thumb: clean-12.jpg
+    text: Casa Luna entrance
+  - name: clean-13.jpg
+    thumb: clean-13.jpg
+    text: Casa Luna entrance 
+  - name: clean-14.jpg
+    thumb: clean-14.jpg
+    text: Bathroom and shower
+  - name: clean-15.jpg
+    thumb: clean-15.jpg
+    text: Bathroom sink
+  - name: clean-16.jpg
+    thumb: clean-16.jpg
+    text: Upstairs bedroom
+  - name: clean-17.jpg
+    thumb: clean-17.jpg
+    text: Upstairs bedroom overlooking the cove
+  - name: clean-18.jpg
+    thumb: clean-18.jpg
+    text: Upstairs hanging bed
+  - name: clean-19.jpg
+    thumb: clean-19.jpg
+    text: Downstairs sleeping area
+  - name: clean-20.jpg
+    thumb: clean-20.jpg
+    text: Downstairs sleeping area
+  - name: clean-21.jpg
+    thumb: clean-21.jpg
+    text: Downstairs living area with kitchen
+  - name: clean-22.jpg
+    thumb: clean-22.jpg
+    text: Kitchen and dining area
+  - name: clean-23.jpg
+    thumb: clean-23.jpg
+    text: Upstairs
+  - name: clean-24.jpg
+    thumb: clean-24.jpg
+    text: Upstairs living area
+  - name: clean-25.jpg
+    thumb: clean-25.jpg
+    text: Upstairs living area
+  - name: clean-26.jpg
+    thumb: clean-26.jpg
+    text: Overlooking the cove
+  - name: clean-27.jpg
+    thumb: clean-27.jpg
+    text: Casa Luna entrance
+  - name: clean-28.jpg
+    thumb: clean-28.jpg
+    text: Casa Luna entrance 
+  - name: clean-29.jpg
+    thumb: clean-29.jpg
+  - name: clean-30.jpg
+    thumb: clean-30.jpg
+    text: Downstairs sleeping area
+  - name: clean-31.jpg
+    thumb: clean-31.jpg
+    text: Downstairs living area with kitchen
+  - name: clean-33.jpg
+    thumb: clean-33.jpg
+    text: Kitchen and dining area
+  - name: clean-33.jpg
+    thumb: clean-33.jpg
+    text: Upstairs
+  - name: clean-34.jpg
+    thumb: clean-34.jpg
+    text: Upstairs living area
+  - name: clean-35.jpg
+    thumb: clean-35.jpg
+    text: Upstairs living area
+  - name: clean-36.jpg
+    thumb: clean-36.jpg
+    text: Overlooking the cove
+  - name: clean-37.jpg
+    thumb: clean-37.jpg
+    text: Casa Luna entrance
+  - name: clean-38.jpg
+    thumb: clean-38.jpg
+    text: Casa Luna entrance 
+  - name: clean-39.jpg
+    thumb: clean-39.jpg
+    text: Bathroom and shower
+  - name: clean-40.jpg
+    thumb: clean-40.jpg
+    text: Downstairs sleeping area
+  - name: clean-41.jpg
+    thumb: clean-41.jpg
+    text: Downstairs living area with kitchen
+  - name: clean-44.jpg
+    thumb: clean-44.jpg
+    text: Kitchen and dining area
+  - name: clean-44.jpg
+    thumb: clean-44.jpg
+    text: Upstairs
+  - name: clean-44.jpg
+    thumb: clean-44.jpg
+    text: Upstairs living area
+  - name: clean-45.jpg
+    thumb: clean-45.jpg
+    text: Upstairs living area
+  - name: clean-46.jpg
+    thumb: clean-46.jpg
+    text: Overlooking the cove
+  - name: clean-47.jpg
+    thumb: clean-47.jpg
+    text: Casa Luna entrance
+  - name: clean-48.jpg
+    thumb: clean-48.jpg
+    text: Casa Luna entrance 
+  - name: clean-49.jpg
+    thumb: clean-49.jpg
+    text: Bathroom and shower
+  - name: clean-50.jpg
+    thumb: clean-50.jpg
+    text: Downstairs sleeping area
+  - name: clean-51.jpg
+    thumb: clean-51.jpg
+    text: Downstairs living area with kitchen
+  - name: clean-52.jpg
+    thumb: clean-52.jpg
+    text: Kitchen and dining area
+  - name: clean-53.jpg
+    thumb: clean-53.jpg
+    text: Upstairs
+  - name: clean-54.jpg
+    thumb: clean-54.jpg
+    text: Upstairs living area

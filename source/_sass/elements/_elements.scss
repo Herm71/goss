@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    font-size: 100%;
 }
 
 *,
@@ -26,6 +27,7 @@ img {
     /* Make sure images are scaled correctly. */
     max-width: 100%;
     /* Adhere to container width. */
+    image-orientation: from-image;
 }
 
 figure {
